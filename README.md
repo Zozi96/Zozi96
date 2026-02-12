@@ -11,9 +11,10 @@ Passionate about innovation, clean code and scalable, future-proof architectures
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django)
+![Litestar](https://img.shields.io/badge/Litestar-202235?style=for-the-badge&logo=litestar)
 ![Apache Spark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apache-spark)
 
-- Frameworks: FastAPI · Flask · Django  
+- Frameworks: FastAPI · Flask · Django · Litestar  
 - Big Data: PySpark  
 
 ### 🟦 TypeScript
